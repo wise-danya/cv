@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "react-app",
+    "prettier"
+  ],
+  "ignorePatterns": [
+    "dist/**/*"
+  ],
+  "env": {
+    "browser": true
+  }
+}
